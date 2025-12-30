@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/automated-software-build-deployment/static/css/main.0bee661f.css",
+    "main.js": "/automated-software-build-deployment/static/js/main.1a156d6f.js",
+    "index.html": "/automated-software-build-deployment/index.html",
+    "main.0bee661f.css.map": "/automated-software-build-deployment/static/css/main.0bee661f.css.map",
+    "main.1a156d6f.js.map": "/automated-software-build-deployment/static/js/main.1a156d6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bee661f.css",
+    "static/js/main.1a156d6f.js"
+  ]
+}
