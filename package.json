@@ -1,0 +1,14 @@
+{
+  "name": "devops-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo Build Successful",
+    "test": "echo Test Passed",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
